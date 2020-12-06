@@ -1,0 +1,13 @@
+.buttons-context{
+    border-radius: 22px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.font{
+    font-family: 'Dancing Script', cursive;
+}
+
+.title-font{
+    font-size: 3rem;
+}
